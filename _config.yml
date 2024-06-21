@@ -233,12 +233,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _academic
   - scope:
       path: ""
-      type: talks
+      type: academic
     values:
-      layout: talk
+      layout: academic
       author_profile: true
       share: true
 
