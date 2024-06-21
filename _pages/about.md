@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am ohida Akter. I received my bachelor’s degree from Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
+I am ohida Akter. I received my bachelor’s degree from <a href="/https://www.bubt.edu.bd/">Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 
 Research Interest
 ======
