@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /skills/
+title: "Skills"
+permalink: /skilss/
 author_profile: true
 ---
-Programming Skills
-======
-* Languages: Python, Java, C++, JavaScript
-* Frontend: HTML, CSS
-* Development Tools: Visual Studio, Eclipse, XAMPP
-* User Interface Design: Figma, Pencil, Sketch, Justinmin
 
+{% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
