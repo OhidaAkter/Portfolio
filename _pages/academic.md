@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 🎓 B.Sc. in Computer Science & Engineering (CSE) 
-    Bangladesh University of Business and Technology (BUBT)
+<ul>Bangladesh University of Business and Technology (BUBT) </ul>
     July, 2013 - July, 2017
 
 
