@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-🎓 B.Sc. in Computer Science & Engineering (CSE) 
+🎓 <h1 style="color:Tomato;">B.Sc. in Computer Science & Engineering (CSE)</h1> 
 <ul>Bangladesh University of Business and Technology (BUBT) </ul>
   <ul>July, 2013 - July, 2017 </ul>
 
