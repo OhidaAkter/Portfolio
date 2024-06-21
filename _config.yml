@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pro.jpg"
+  avatar           : "images/pro.jpg"
   name             : "Ohida Akter"
   pronouns         : # example: "she/her"  
   bio              : "A Confident Hardworking Learner"
   location         : "Dhaka, Bangladesh"
-  employer         : "Bangladesh University of Business and Technology (BUBT)"
+  employer         : "Bangladesh University of Business & Technology (BUBT)"
   uri              : https://www.bubt.edu.bd/
    
 
