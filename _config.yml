@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pp.png"
   name             : "Afia Akter"
   pronouns         : # example: "she/her"  
   bio              : "A Confident Hardworking Learner"
   location         : "Dhaka, Bangladesh"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Bangladesh University of Business and Technology (BUBT)"
+  uri              : https://www.bubt.edu.bd/
    
 
   # Academic websites
