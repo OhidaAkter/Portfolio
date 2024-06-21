@@ -14,9 +14,11 @@ Education
 <ul>Bangladesh University of Business and Technology (BUBT) </ul>
   <ul>July, 2013 - July, 2017 </ul>
 
-
+<ul> </ul>
+<ul> </ul>
+<ul> </ul>
 🎓 Higher Secondary Certificate 
-   - Amrita Lal Dey College, Barishal, Bangladesh
+   <ul> Amrita Lal Dey College, Barishal, Bangladesh </ul>
  
 
     
