@@ -12,7 +12,7 @@ Education
 ======
 🎓 B.Sc. in Computer Science & Engineering (CSE) 
 <ul>Bangladesh University of Business and Technology (BUBT) </ul>
-    July, 2013 - July, 2017
+  <ul>July, 2013 - July, 2017 </ul>
 
 
 🎓 Higher Secondary Certificate 
